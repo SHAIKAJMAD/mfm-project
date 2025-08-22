@@ -1,1 +1,2 @@
 # mfm-project
+print("ajmad")
