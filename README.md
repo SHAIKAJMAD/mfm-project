@@ -1,2 +1,2 @@
 # mfm-project
-print("ajmad")
+print("welcome to mfm Ajmad")
