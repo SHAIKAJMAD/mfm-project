@@ -1,2 +1,6 @@
 # mfm-project
-print("welcome to mfm Ajmad")
+try:
+    num = int("abc")
+except ValueError:
+    print("Invalid number")
+
